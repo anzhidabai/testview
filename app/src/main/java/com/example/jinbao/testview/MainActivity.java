@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //test 分支中才有这个
+        //main 分支
         Log.e(TAG, "onCreate: ");
     }
 }
